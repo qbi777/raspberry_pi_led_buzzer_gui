@@ -4,6 +4,7 @@ This Python script demonstrates how to control an LED and a buzzer using a Raspb
 
 Prerequisites
 Before running this code, make sure you have the following components and software set up:
+![vnc_server](https://github.com/qbi777/raspberry_pi_led_buzzer_gui/assets/123941775/a881753f-ab78-4f4d-86a6-526bcbdbf2d8)
 
 Raspberry Pi (any model with GPIO pins)
 RPi.GPIO library (Python library for GPIO control)
