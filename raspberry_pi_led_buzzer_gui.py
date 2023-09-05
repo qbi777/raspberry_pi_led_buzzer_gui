@@ -2,7 +2,7 @@ import RPi.GPIO as GPIO
 import tkinter as tk
 
 # Set GPIO numbering mode
-GPIO.setmode(GPIO.BOARD)
+GPIO.setmode(GPIO.BCM)
 
 # Set pin 11 as an output for the LED
 GPIO.setup(17, GPIO.OUT)
